@@ -1,0 +1,5 @@
+{
+  "name": "AutoOMR",
+  "description": "An intelligent web application that automates the evaluation of OMR (Optical Mark Recognition) sheets. Users can upload scanned OMR sheets, and the system will automatically detect filled bubbles, score the responses against answer keys, and generate detailed reports and analytics.",
+  "requestFramePermissions": []
+}
